@@ -13,6 +13,9 @@
 .text-white{
     color: rgba(255, 255, 255, 1);
 }
+.bg-light{
+    background-color: black;
+}
 
 
 
@@ -36,3 +39,26 @@
     margin-right: 30px;
 }
 
+.fitness{
+    color: rgba(230, 83, 60, 1);
+}
+
+#home{
+background-color: rgba(230, 83, 60, 1);
+border-radius: 46px;
+font-weight: 400;
+padding: 20px;
+
+}
+
+/* feature styles */
+.feature-tittle{
+    font-weight: 900;
+    font-size: 1.25rem;
+    align-items: center;
+}
+
+.features{
+    display: flex;
+
+}
